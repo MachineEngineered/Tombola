@@ -1,3 +1,10 @@
+/*
+Gioco della tombola in Java
+Alpha 05/02/2024
+
+coded by Francesco Santaniello
+*/
+
 package tombola;
 
 import tombola.Game.GameMode;
